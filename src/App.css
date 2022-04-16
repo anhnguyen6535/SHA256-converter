@@ -21,6 +21,7 @@ body::-webkit-scrollbar {
   border-radius: 0.5em;
   width: 50%;
   padding: 3rem;
+  display: block;
 }
 
 .title{
@@ -50,6 +51,8 @@ input{
 
 .hex-hash{
   height:4rem;
+  width: 85%;
+  display: inline-block;
   word-wrap: break-word;
   padding: 0.5rem;
   display: block;
@@ -59,9 +62,10 @@ input{
 
 .bi-hash{
   height:7rem;
+  width: 85%;
   word-wrap: break-word;
   padding: 0.5rem;
-  display: block;
+  display: inline-block;
   background-color: #eee2dc;
   color: #ac3b61;
 }
