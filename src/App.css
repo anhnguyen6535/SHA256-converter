@@ -58,6 +58,7 @@ input{
   display: block;
   background-color: #eee2dc;
   color: #ac3b61;
+  overflow-x: auto;
 }
 
 .bi-hash{
@@ -68,6 +69,7 @@ input{
   display: block;
   background-color: #eee2dc;
   color: #ac3b61;
+  overflow-x: auto;
 }
 
 
