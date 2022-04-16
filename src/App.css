@@ -52,7 +52,7 @@ input{
 .hex-hash{
   height:4rem;
   width: 85%;
-  display: inline-block;
+  display: block;
   word-wrap: break-word;
   padding: 0.5rem;
   display: block;
@@ -65,7 +65,7 @@ input{
   width: 85%;
   word-wrap: break-word;
   padding: 0.5rem;
-  display: inline-block;
+  display: block;
   background-color: #eee2dc;
   color: #ac3b61;
 }
