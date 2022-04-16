@@ -41,6 +41,7 @@ input{
   width: 30%;
   background-color: #eee2dc;
   color: #ac3b61;
+  overflow-x: auto;
 }
 
 .convert{
