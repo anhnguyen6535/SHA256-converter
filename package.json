@@ -9,7 +9,9 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "crypto-js": "^4.1.1",
+    "hex-to-binary": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
